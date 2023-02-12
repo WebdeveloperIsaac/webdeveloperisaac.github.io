@@ -12,6 +12,10 @@ Google Cloud Deployment :
 
 [https://isaaconlie.web.app](https://isaaconline.web.app)
 
+AWS Amplify Deployment :
+
+https://master.d1oj9qb1duhb3q.amplifyapp.com/#/
+
 Project Inspiration :
 
 [https://developerfolio.js.org/](https://developerfolio.js.org/)
